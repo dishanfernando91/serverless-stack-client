@@ -1,4 +1,6 @@
 const config = {
+  MAX_ATTACHMENT_SIZE: 5000000,
+  STRIPE_KEY: "pk_test_51IE9zaACsAI7F0OpWKFk1RjZMMS5kDx6iE5kXcYTDCzDs4tnYkHhP6jjydGmq9Uk8MJWFf6zFYJXBdTEgUYvZJdH00bcbpwMvc",
     s3: {
       REGION: "ap-south-1",
       BUCKET: "notes-app-tutorial-sl",
